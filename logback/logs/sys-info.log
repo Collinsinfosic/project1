@@ -1,0 +1,118 @@
+2024-11-26 10:52:04 [main] INFO  [com.example.Demo4Application] - Starting Demo4Application using Java 17.0.13 with PID 17952 (C:\Users\29731\IdeaProjects\demo4\target\classes started by 29731 in C:\Users\29731\IdeaProjects\demo4)
+2024-11-26 10:52:04 [main] INFO  [com.example.Demo4Application] - No active profile set, falling back to 1 default profile: "default"
+2024-11-26 10:52:05 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-26 10:52:05 [main] INFO  [o.a.catalina.core.StandardService] - Starting service [Tomcat]
+2024-11-26 10:52:05 [main] INFO  [o.a.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-11-26 10:52:05 [main] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring embedded WebApplicationContext
+2024-11-26 10:52:05 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-26 10:52:06 [main] INFO  [com.example.Demo4Application] - Started Demo4Application in 1.382 seconds (process running for 1.823)
+2024-11-26 10:52:17 [http-nio-8080-exec-1] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-26 10:52:17 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-11-26 10:52:17 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@66ed68c8
+2024-11-26 10:52:17 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-11-26 10:52:58 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-11-26 10:52:58 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-11-26 12:06:18 [main] INFO  [com.example.Demo4Application] - Starting Demo4Application using Java 17.0.13 with PID 5100 (C:\Users\29731\IdeaProjects\demo4\target\classes started by 29731 in C:\Users\29731\IdeaProjects\demo4)
+2024-11-26 12:06:18 [main] INFO  [com.example.Demo4Application] - No active profile set, falling back to 1 default profile: "default"
+2024-11-26 12:06:19 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:06:19 [main] INFO  [o.a.catalina.core.StandardService] - Starting service [Tomcat]
+2024-11-26 12:06:19 [main] INFO  [o.a.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-11-26 12:06:19 [main] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring embedded WebApplicationContext
+2024-11-26 12:06:19 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:06:19 [main] INFO  [com.example.Demo4Application] - Started Demo4Application in 1.548 seconds (process running for 1.901)
+2024-11-26 12:06:35 [http-nio-8080-exec-1] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-26 12:06:35 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-11-26 12:06:35 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@354f29ec
+2024-11-26 12:06:35 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-11-26 12:08:36 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-11-26 12:08:36 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-11-26 12:08:39 [main] INFO  [com.example.Demo4Application] - Starting Demo4Application using Java 17.0.13 with PID 24092 (C:\Users\29731\IdeaProjects\demo4\target\classes started by 29731 in C:\Users\29731\IdeaProjects\demo4)
+2024-11-26 12:08:39 [main] INFO  [com.example.Demo4Application] - No active profile set, falling back to 1 default profile: "default"
+2024-11-26 12:08:39 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:08:39 [main] INFO  [o.a.catalina.core.StandardService] - Starting service [Tomcat]
+2024-11-26 12:08:39 [main] INFO  [o.a.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-11-26 12:08:39 [main] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring embedded WebApplicationContext
+2024-11-26 12:08:40 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:08:40 [main] INFO  [com.example.Demo4Application] - Started Demo4Application in 1.589 seconds (process running for 1.947)
+2024-11-26 12:08:42 [http-nio-8080-exec-1] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-26 12:08:43 [http-nio-8080-exec-5] INFO  [o.s.api.AbstractOpenApiResource] - Init duration for springdoc-openapi is: 136 ms
+2024-11-26 12:08:53 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-11-26 12:08:53 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79b06021
+2024-11-26 12:08:53 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-11-26 12:10:20 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-11-26 12:10:20 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-11-26 12:10:23 [main] INFO  [com.example.Demo4Application] - Starting Demo4Application using Java 17.0.13 with PID 4416 (C:\Users\29731\IdeaProjects\demo4\target\classes started by 29731 in C:\Users\29731\IdeaProjects\demo4)
+2024-11-26 12:10:23 [main] INFO  [com.example.Demo4Application] - No active profile set, falling back to 1 default profile: "default"
+2024-11-26 12:10:24 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:10:24 [main] INFO  [o.a.catalina.core.StandardService] - Starting service [Tomcat]
+2024-11-26 12:10:24 [main] INFO  [o.a.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-11-26 12:10:24 [main] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring embedded WebApplicationContext
+2024-11-26 12:10:24 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:10:24 [main] INFO  [com.example.Demo4Application] - Started Demo4Application in 1.552 seconds (process running for 1.909)
+2024-11-26 12:10:27 [http-nio-8080-exec-2] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-26 12:10:27 [http-nio-8080-exec-4] INFO  [o.s.api.AbstractOpenApiResource] - Init duration for springdoc-openapi is: 143 ms
+2024-11-26 12:10:35 [http-nio-8080-exec-6] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-11-26 12:10:35 [http-nio-8080-exec-6] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ff8b026
+2024-11-26 12:10:35 [http-nio-8080-exec-6] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-11-26 12:10:55 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-11-26 12:10:55 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-11-26 12:10:57 [main] INFO  [com.example.Demo4Application] - Starting Demo4Application using Java 17.0.13 with PID 12636 (C:\Users\29731\IdeaProjects\demo4\target\classes started by 29731 in C:\Users\29731\IdeaProjects\demo4)
+2024-11-26 12:10:57 [main] INFO  [com.example.Demo4Application] - No active profile set, falling back to 1 default profile: "default"
+2024-11-26 12:10:58 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:10:58 [main] INFO  [o.a.catalina.core.StandardService] - Starting service [Tomcat]
+2024-11-26 12:10:58 [main] INFO  [o.a.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-11-26 12:10:58 [main] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring embedded WebApplicationContext
+2024-11-26 12:10:58 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:10:58 [main] INFO  [com.example.Demo4Application] - Started Demo4Application in 1.604 seconds (process running for 1.942)
+2024-11-26 12:11:04 [http-nio-8080-exec-1] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-26 12:11:04 [http-nio-8080-exec-3] INFO  [o.s.api.AbstractOpenApiResource] - Init duration for springdoc-openapi is: 145 ms
+2024-11-26 12:11:10 [http-nio-8080-exec-8] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-11-26 12:11:10 [http-nio-8080-exec-8] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@78c84591
+2024-11-26 12:11:10 [http-nio-8080-exec-8] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-11-26 12:43:07 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-11-26 12:43:07 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-11-26 12:43:11 [main] INFO  [com.example.Demo4Application] - Starting Demo4Application using Java 17.0.13 with PID 13500 (C:\Users\29731\IdeaProjects\demo4\target\classes started by 29731 in C:\Users\29731\IdeaProjects\demo4)
+2024-11-26 12:43:11 [main] INFO  [com.example.Demo4Application] - No active profile set, falling back to 1 default profile: "default"
+2024-11-26 12:43:12 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:43:12 [main] INFO  [o.a.catalina.core.StandardService] - Starting service [Tomcat]
+2024-11-26 12:43:12 [main] INFO  [o.a.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-11-26 12:43:12 [main] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring embedded WebApplicationContext
+2024-11-26 12:43:12 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-26 12:43:12 [main] INFO  [com.example.Demo4Application] - Started Demo4Application in 1.529 seconds (process running for 1.882)
+2024-11-26 12:43:18 [http-nio-8080-exec-1] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-26 12:43:18 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-11-26 12:43:18 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2bf1bceb
+2024-11-26 12:43:18 [http-nio-8080-exec-1] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-11-26 12:50:07 [http-nio-8080-exec-5] INFO  [o.s.api.AbstractOpenApiResource] - Init duration for springdoc-openapi is: 120 ms
+2024-11-26 12:54:18 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-11-26 12:54:18 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-11-26 13:10:29 [main] INFO  [com.example.Demo4Application] - Starting Demo4Application using Java 17.0.13 with PID 10884 (C:\Users\29731\IdeaProjects\demo4\target\classes started by 29731 in C:\Users\29731\IdeaProjects\demo4)
+2024-11-26 13:10:29 [main] INFO  [com.example.Demo4Application] - No active profile set, falling back to 1 default profile: "default"
+2024-11-26 13:10:29 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-26 13:10:29 [main] INFO  [o.a.catalina.core.StandardService] - Starting service [Tomcat]
+2024-11-26 13:10:29 [main] INFO  [o.a.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-11-26 13:10:29 [main] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring embedded WebApplicationContext
+2024-11-26 13:10:30 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-26 13:10:30 [main] INFO  [com.example.Demo4Application] - Started Demo4Application in 1.517 seconds (process running for 1.847)
+2024-11-26 13:10:43 [http-nio-8080-exec-2] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-26 13:10:43 [http-nio-8080-exec-2] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-11-26 13:10:43 [http-nio-8080-exec-2] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5995d008
+2024-11-26 13:10:43 [http-nio-8080-exec-2] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-11-26 13:10:52 [http-nio-8080-exec-6] INFO  [o.s.api.AbstractOpenApiResource] - Init duration for springdoc-openapi is: 124 ms
+2024-11-26 13:11:02 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-11-26 13:11:02 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.
+2024-11-26 13:14:24 [main] INFO  [com.example.Demo4Application] - Starting Demo4Application using Java 17.0.13 with PID 17972 (C:\Users\29731\IdeaProjects\demo4\target\classes started by 29731 in C:\Users\29731\IdeaProjects\demo4)
+2024-11-26 13:14:24 [main] INFO  [com.example.Demo4Application] - No active profile set, falling back to 1 default profile: "default"
+2024-11-26 13:14:25 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-26 13:14:25 [main] INFO  [o.a.catalina.core.StandardService] - Starting service [Tomcat]
+2024-11-26 13:14:25 [main] INFO  [o.a.catalina.core.StandardEngine] - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-11-26 13:14:25 [main] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring embedded WebApplicationContext
+2024-11-26 13:14:25 [main] INFO  [o.a.coyote.http11.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-26 13:14:25 [main] INFO  [com.example.Demo4Application] - Started Demo4Application in 1.59 seconds (process running for 1.96)
+2024-11-26 13:14:28 [http-nio-8080-exec-1] INFO  [o.a.c.c.C.[Tomcat].[localhost].[/]] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-26 13:14:28 [http-nio-8080-exec-4] INFO  [o.s.api.AbstractOpenApiResource] - Init duration for springdoc-openapi is: 136 ms
+2024-11-26 13:14:32 [http-nio-8080-exec-6] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Starting...
+2024-11-26 13:14:32 [http-nio-8080-exec-6] INFO  [com.zaxxer.hikari.pool.HikariPool] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41b4ba86
+2024-11-26 13:14:32 [http-nio-8080-exec-6] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Start completed.
+2024-11-26 13:18:57 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown initiated...
+2024-11-26 13:18:57 [SpringApplicationShutdownHook] INFO  [com.zaxxer.hikari.HikariDataSource] - HikariPool-1 - Shutdown completed.

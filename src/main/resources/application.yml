@@ -1,0 +1,36 @@
+spring:
+  datasource:
+    # 数据库连接驱动
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # 数据源类型： 默认的是 Hikari
+    type: com.zaxxer.hikari.HikariDataSource
+    # 数据库连接地址
+    url: jdbc:mysql://localhost:3306/demo01?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    # 数据库连接用户名
+    username: root
+    # 数据库连接密码
+    password: root
+
+    mvc:
+      pathmatch:
+        matching-strategy: ant_path_matcher
+
+# MyBatis配置
+mybatis:
+  # 配置mapper的扫描，找到所有的mapper.xml映射文件
+  mapper-locations: classpath:mybatis/**/*.xml
+  configuration:
+    # 指定 MyBatis 所用日志的具体实现
+    log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl
+    # 开启自动下划线格式转驼峰格式
+    map-underscore-to-camel-case: true
+
+#springBoot自带日志插件，直接引用即可
+
+logging:
+  level:
+    com.example.mapper: debug
+    org.springframework: warn
+  config: classpath:logback-spring.xml
+  file:
+    path: ./logs/
